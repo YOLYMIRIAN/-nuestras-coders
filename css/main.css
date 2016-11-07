@@ -1,0 +1,29 @@
+h { font-family: serif;
+    font-size: 35px;
+        
+}
+div {
+    height: 210px;
+    width: 210px;
+}
+.uno {
+    background-image: url(../img/profile-1.png); }
+     
+.dos {
+    background-image: url(../img/profile-2.png); }
+     
+.tres {
+    background-image: url(../img/profile-3.png); }
+      
+.cuatro {
+    background-image: url(../img/profile-4.png); }
+     
+.cinco {
+    background-image: url(../img/profile-5.png); }
+      
+.seis {
+    background-image: url(../img/profile-6.png); }
+        
+
+
+
